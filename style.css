@@ -50,7 +50,7 @@ body{
 
 .panel.active h3 {
   opacity: 1;
-  transition: opacity 0.3s ease-in;
+  transition: opacity 0.3s ease-in 0.4s;
 }
 
 /* if the screen size is too small, then I display only 3 cards */
